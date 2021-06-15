@@ -1,12 +1,12 @@
 <p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="30" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/kojoyeboah53i/voters-app-vue?logo=git)
+![GitHub last commit](https://img.shields.io/github/last-commit/kojoyeboah53i/voters-app-vue?logo=git) ![GitHub all releases](https://img.shields.io/github/downloads/kojoyeboah53i/voters-app-vue/total)
 <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/v/vue.svg?sanitize=true" alt="Version"></a>
 
-![GitHub all releases](https://img.shields.io/github/downloads/kojoyeboah53i/voters-app-vue/total)
 
-<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="400" src="https://vuejs.org/images/E-voting.png" alt="Vue logo"></a></p># e_voting
+
+<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="400" src="./E-voting.png" alt="Vue logo"></a></p># e_voting
 
 ## Project setup
 ```
