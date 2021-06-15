@@ -1,0 +1,33 @@
+{
+  "name": "e_voting",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@bachdgvn/vue-otp-input": "^1.0.8",
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "core-js": "^3.6.5",
+    "firebase": "^8.2.1",
+    "jquery": "^3.5.1",
+    "node": "^15.4.0",
+    "node-sass": "^5.0.0",
+    "popper.js": "^1.16.1",
+    "sass-loader": "^10.1.0",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0",
+    "vue-toasted": "^1.1.28",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
