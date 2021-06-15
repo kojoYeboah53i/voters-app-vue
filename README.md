@@ -6,7 +6,9 @@
 
 
 
-<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="400" src="./E-voting.png" alt="Vue logo"></a></p># e_voting
+<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img width="400" src="E-Voting.png" alt="screenshot"></a></p>
+
+## e-voting
 
 ## Project setup
 ```
