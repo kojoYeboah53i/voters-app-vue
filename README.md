@@ -1,5 +1,5 @@
 
-![GitHub last commit](https://img.shields.io/github/last-commit/kojoyeboah53i/voters-app-vue?logo=git)
+![GitHub last commit](https://img.shields.io/github/last-commit/kojoyeboah53i/voters-app-vue?logo=git)https://img.shields.io/github/downloads/kojoyeboah53i/voters-app-vue/total?color=%23e4e418
 
 # e_voting
 
