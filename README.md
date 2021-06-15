@@ -1,3 +1,6 @@
+
+![GitHub last commit](https://img.shields.io/github/last-commit/kojoyeboah53i/voters-app-vue?logo=git)
+
 # e_voting
 
 ## Project setup
