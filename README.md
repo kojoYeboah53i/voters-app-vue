@@ -4,10 +4,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/kojoyeboah53i/voters-app-vue?logo=git)
 <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/v/vue.svg?sanitize=true" alt="Version"></a>
 
-(https://img.shields.io/github/downloads/kojoyeboah53i/voters-app-vue/total)
+![GitHub all releases](https://img.shields.io/github/downloads/kojoyeboah53i/voters-app-vue/total)
 
-
-# e_voting
+<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="400" src="https://vuejs.org/images/E-voting.png" alt="Vue logo"></a></p># e_voting
 
 ## Project setup
 ```
